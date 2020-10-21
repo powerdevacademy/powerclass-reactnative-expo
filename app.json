@@ -1,0 +1,12 @@
+{
+  "name": "powerdev",
+  "displayName": "powerdev",
+  "expo": {
+    "name": "powerdev",
+    "slug": "powerdev",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
